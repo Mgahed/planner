@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new home page",
+      "details": "Lorem ipsum dolor.",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum dolor.",
+      "complete": false
+    },
+    {
+      "title": "Test",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aperiam consequuntur facilis ipsum, molestiae necessitatibus possimus quidem rerum vero. Aperiam consequatur cum deserunt eos facilis id quas quos voluptatem!",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
