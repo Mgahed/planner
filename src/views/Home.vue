@@ -25,7 +25,7 @@ export default {
     }
   },
   mounted() {
-    fetch('https://my-json-server.typicode.com/Mgahed/planner/db')
+    fetch('http://localhost:3000/projects')
         .then(res => res.json())
         .then(data => this.projects = data)
         .catch(err => console.log(err.message))

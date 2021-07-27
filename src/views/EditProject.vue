@@ -16,7 +16,7 @@ export default {
     return {
       title: '',
       details: '',
-      uri: 'https://my-json-server.typicode.com/Mgahed/planner/db/' + this.id
+      uri: 'http://localhost:3000/projects' + this.id
     }
   },
   mounted() {
