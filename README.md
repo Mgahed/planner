@@ -20,5 +20,6 @@ npm run build
 json-server --watch data/db.json
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[comment]: <> (### Customize configuration)
+
+[comment]: <> (See [Configuration Reference]&#40;https://cli.vuejs.org/config/&#41;.)

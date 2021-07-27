@@ -2,14 +2,14 @@
   "projects": [
     {
       "title": "Lorem ipsum dolor.1",
-      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, dolores, illum. Autem debitis ducimus explicabo ipsa molestiae placeat sapiente similique soluta temporibus! Commodi eius eligendi obcaecati! A possimus praesentium quasi?",
-      "complete": false,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, dolores, illum. Autem debitis ducimus explicabo ipsa molestiae placeat sapiente similique soluta temporibus! Commodi eius eligendi obcaecati! A possimus praesentium quasi?\n\n",
+      "complete": true,
       "id": 1
     },
     {
       "title": "Lorem ipsum dolor.2",
       "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, dolores, illum. Autem debitis ducimus explicabo ipsa molestiae placeat sapiente similique soluta temporibus! Commodi eius eligendi obcaecati! A possimus praesentium quasi?",
-      "complete": true,
+      "complete": false,
       "id": 2
     },
     {
