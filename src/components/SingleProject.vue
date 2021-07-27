@@ -23,7 +23,7 @@ export default {
   data() {
     return {
       details: false,
-      uri: 'http://localhost:3000/projects/' + this.project.id
+      uri: 'https://my-json-server.typicode.com/Mgahed/planner/db/' + this.project.id
     }
   },
   methods: {

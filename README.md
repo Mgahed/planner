@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
+### Listen to db file in json format
+```
+json-server --watch data/db.json
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

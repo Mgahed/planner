@@ -25,7 +25,7 @@ export default {
     }
   },
   mounted() {
-    fetch('https://github.com/Mgahed/planner/blob/master/data/db.json')
+    fetch('https://my-json-server.typicode.com/Mgahed/planner/db')
         .then(res => res.json())
         .then(data => this.projects = data)
         .catch(err => console.log(err.message))
